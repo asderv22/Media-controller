@@ -1,7 +1,10 @@
 一个媒体控制器
 ====
+还在施工
+----
 *这只是一个普通的无线媒体控制器*   <br>
 基于arduino 无线传输使用2.4Ghz频段  <br>
+<br>
 ~~zhongbest的模块好用 不是广告~~  <br>
 
 可实现功能 /functions
@@ -18,17 +21,20 @@ ardunio nano(Atmel328p) x1  <br>
 2.4ghz透传 x1  <br>
 电池&充电电路（eg.ETA9640） x1 <br>
 按键开关 x3 为了手感 ~~正好多出来~~ 使用了凯华茶轴 <br>
+<br>
 
 **接收端**
 ardunio promicro x1  <br>
 2.4ghz透传  x1  <br>
 *这边直接usb取点 电池就不需要了*  <br>
 *喜欢指示灯可以自己加*  <br>
+<br>
 
 别的一点东西
 ----
-造它出来还是为了~~好玩~~ 实验目的  <br>
+造它出来还是为了 ~~好玩~~ 实验目的  <br>
 files里的小问题 就当本来就存在吧  <br>
 **打印件使用Sketchup绘制并输出stl**  <br>
 **由于Sketchup特殊的实体密封 不保证所有切片软件&上位机不出错**  <br>
+<br>
 ~~issues看心情~~
