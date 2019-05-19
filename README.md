@@ -14,13 +14,21 @@
 使用材料
 ----
 **发送端**  <br>
-ardunio nano(Atmel328p) *1  <br>
-2.4ghz透传 *1  <br>
-电池&充电电路（eg.ETA9640） *1 <br>
+ardunio nano(Atmel328p) x1  <br>
+2.4ghz透传 x1  <br>
+电池&充电电路（eg.ETA9640） x1 <br>
+按键开关 x3 为了手感 ~~正好多出来~~ 使用了凯华茶轴 <br>
 
-
+**接收端**
+ardunio promicro x1  <br>
+2.4ghz透传  x1  <br>
+*这边直接usb取点 电池就不需要了*  <br>
+*喜欢指示灯可以自己加*  <br>
 
 别的一点东西
 ----
 造它出来还是为了~~好玩~~ 实验目的  <br>
 files里的小问题 就当本来就存在吧  <br>
+**打印件使用Sketchup绘制并输出stl**  <br>
+**由于Sketchup特殊的实体密封 不保证所有切片软件&上位机不出错**  <br>
+~~issues看心情~~
