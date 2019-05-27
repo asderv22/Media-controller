@@ -1,6 +1,8 @@
 一个媒体控制器
 ====
-还在施工
+还在施工 
+----
+English vision in progress
 ----
 *这只是一个普通的无线媒体控制器*   <br>
 基于arduino 无线传输使用2.4Ghz频段  <br>
