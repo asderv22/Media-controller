@@ -51,5 +51,11 @@ files里的小问题 就当本来就存在吧  <br>
 <br>
 English vision
 ----
-*It's a simple wireless media controller*<br>
+**It's a simple wireless media controller**<br>
 based on arduino &2.4Ghz transform<br>
+<br>
+Functions
+----
+Since the receiver is based on arduino promicro<br>
+it can implement **wireless** mouse and keyboard emulation<br>
+~~only has three keys~~
