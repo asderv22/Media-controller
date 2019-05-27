@@ -47,4 +47,9 @@ files里的小问题 就当本来就存在吧  <br>
 **打印件使用Sketchup绘制并输出stl**  <br>
 **由于Sketchup特殊的实体密封 不保证所有切片软件&上位机不出错**  <br>
 <br>
-~~issues看心情~~
+~~issues看心情~~<br>
+<br>
+English vision
+----
+*It's a simple wireless media controller*<br>
+based on arduino &2.4Ghz transform<br>
