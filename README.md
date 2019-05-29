@@ -59,6 +59,7 @@ Functions
 Since the receiver is based on arduino promicro<br>
 it can implement **wireless** mouse and keyboard emulation<br>
 ~~only has three keys~~
+<br>
 Materials used
 ----
 **transmitter** <br>
@@ -67,4 +68,4 @@ arduino nano(Atmel328p) x1 <br>
 Li-po battery &charge circuit (eg. ETA9603) x1 <br>
 tact switch x3 (which I usde three MX switches)<br>
 led x2 (as power and TX indicator)<br>
-**since the leds are driven by the arduino io ports,the forward voltage drop of the led should below 4v)<br>
+**since the leds are driven by the arduino io ports,the forward voltage drop of the led should below 4v**<br>
