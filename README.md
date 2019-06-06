@@ -1,8 +1,6 @@
 一个媒体控制器
 ====
-还在施工 
-----
-English vision in progress
+English vision in the second part
 ----
 *这只是一个普通的无线媒体控制器*   <br>
 基于arduino 无线传输使用2.4Ghz频段  <br>
@@ -27,7 +25,7 @@ ardunio nano(Atmel328p) x1  <br>
 led x2 这里用了一红一绿 **由于通过arduino的io端口驱动 led的正向压降不能大于4v**<br>
 <br>
 
-**接收端**
+**接收端** <br>
 ardunio promicro x1  <br>
 2.4ghz透传  x1  <br>
 *这边直接usb取电 电池就不需要了*  <br>
@@ -91,6 +89,6 @@ this product is built for ~~fun~~ testing purpose <br>
 so there may be some small (or enormous) problems <br>
 **the 3d print .stl files are created via Sketchup** <br>
 **due to the special solid sealing of Sketchup**  <br>
-**there might be small problems when using different slicing softwares (it works fine with cura) **  <br>
+**there might be small problems when using different slicing softwares (it works fine with cura)**  <br>
 **double check your slicing software bfrore print** <br>
 
