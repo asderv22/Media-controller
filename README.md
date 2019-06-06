@@ -36,19 +36,20 @@ ardunio promicro x1  <br>
 
 关于文件的重要解释
 ----
-电路原理图在files里 展示为pdf文件 <br>
-**原理图通过lceda绘制 .json文件是lceda源码** <br> 
-允许导入再编辑<br>
+电路原理图在files里 展示为pdf文件   <br>
+原理图通过lceda绘制 .json文件是lceda源码   <br> 
+允许导入再编辑  <br>
 <br>
-别的一点东西
+
+其他一点东西
 ----
 造它出来还是为了 ~~好玩~~ 实验目的  <br>
 files里的小问题 就当本来就存在吧  <br>
-**打印件使用Sketchup绘制并输出stl**  <br>
-**由于Sketchup特殊的实体密封 不保证所有切片软件&上位机不出错**  <br>
+打印件使用Sketchup绘制并输出stl  <br>
+由于Sketchup特殊的实体密封 不保证所有切片软件&上位机不出错  <br>
+~~issues看心情~~ <br>
 <br>
-~~issues看心情~~<br>
-<br>
+
 English vision
 ----
 **It's a simple wireless media controller**<br>
