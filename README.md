@@ -7,7 +7,7 @@ English vision in the second part
 <br>
 ~~zhongbest的模块好用 不是广告~~  <br>
 
-可实现功能 /functions
+可实现功能 
 ----
 由于接收端使用了promicro 因此能够实现鼠标和键盘模拟  <br>
 所以说  <br>
