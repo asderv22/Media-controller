@@ -20,7 +20,7 @@ English vision in the second part
 **发送端**  <br>
 ardunio nano(Atmel328p) x1  <br>
 2.4ghz透传 x1  <br>
-电池&充电电路（eg.ETA9640） x1 <br>
+电池&充电电路（eg.FM9603） x1 <br>
 按键开关 x3 为了手感 ~~正好多出来~~ 使用了凯华茶轴 <br>
 led x2 这里用了一红一绿 **由于通过arduino的io端口驱动 led的正向压降不能大于4v**<br>
 <br>
