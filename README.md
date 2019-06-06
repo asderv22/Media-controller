@@ -89,6 +89,6 @@ this product is built for ~~fun~~ testing purpose <br>
 so there may be some small (or enormous) problems <br>
 **the 3d print .stl files are created via Sketchup** <br>
 **due to the special solid sealing of Sketchup**  <br>
-**there might be small problems when using different slicing softwares (it works fine with cura)**  <br>
+**there might be small problems while using different slicing softwares (it works fine with cura)**  <br>
 **double check your slicing software bfrore print** <br>
 
