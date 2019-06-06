@@ -30,7 +30,7 @@ led x2 这里用了一红一绿 **由于通过arduino的io端口驱动 led的正
 **接收端**
 ardunio promicro x1  <br>
 2.4ghz透传  x1  <br>
-*这边直接usb取点 电池就不需要了*  <br>
+*这边直接usb取电 电池就不需要了*  <br>
 *喜欢指示灯可以自己加*  <br>
 <br>
 
@@ -45,14 +45,14 @@ ardunio promicro x1  <br>
 ----
 造它出来还是为了 ~~好玩~~ 实验目的  <br>
 files里的小问题 就当本来就存在吧  <br>
-打印件使用Sketchup绘制并输出stl  <br>
-由于Sketchup特殊的实体密封 不保证所有切片软件&上位机不出错  <br>
+**打印件使用Sketchup绘制并输出stl**  <br>
+**由于Sketchup特殊的实体密封 不保证所有切片软件&上位机不出错**  <br>
 ~~issues看心情~~ <br>
 <br>
 
 English vision
 ----
-**It's a simple wireless media controller**<br>
+**It's a simple wireless media control<ler**<br>
 based on arduino &2.4Ghz transform<br>
 <br>
 Functions
@@ -70,3 +70,24 @@ Li-po battery &charge circuit (eg. ETA9603) x1 <br>
 tact switch x3 (which I usde three MX switches)<br>
 led x2 (as power and TX indicator)<br>
 **since the leds are driven by the arduino io ports,the forward voltage drop of the led should below 4v**<br>
+<br>
+**receiver** <br>
+arduino promicro x1 <br>
+2.4Ghz DTU x1 <br>
+*since it's powered by usb ports,there's no need to use battery* <br>
+<br>
+Important explainations of the files
+----
+the circuit diagrams are shown as .pdf files in the\files folder <br>
+diagrams are drew using LCEDA <br>
+the .json files are LCEDA source codes which allow import and reedit <br>
+<br>
+Something more
+----
+this product is built for ~~fun~~ testing purpose <br>
+so there may be some small (or enormous) problems <br>
+**the 3d print .stl files are created via Sketchup**
+**due to the special solid sealing of Sketchup**
+**there might be small problems when using different slicing softwares (it works fine with cura) **
+**double check your slicing software bfrore print**
+
