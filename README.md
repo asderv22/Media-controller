@@ -52,8 +52,8 @@ files里的小问题 就当本来就存在吧  <br>
 
 English vision
 ----
-**It's a simple wireless media control<ler**<br>
-based on arduino &2.4Ghz transform<br>
+**It's a simple wireless media controller** <br>
+based on arduino &2.4Ghz transform <br>
 <br>
 Functions
 ----
@@ -61,33 +61,36 @@ Since the receiver is based on arduino promicro<br>
 it can implement **wireless** mouse and keyboard emulation<br>
 ~~only has three keys~~
 <br>
+
 Materials used
 ----
 **transmitter** <br>
 arduino nano(Atmel328p) x1 <br>
 2.4Ghz DTU x1 <br>
-Li-po battery &charge circuit (eg. ETA9603) x1 <br>
-tact switch x3 (which I usde three MX switches)<br>
+Li-po battery &charge circuit (eg. ETA9603) x1  <br>
+tact switch x3 (which I usde three MX switches) <br>
 led x2 (as power and TX indicator)<br>
-**since the leds are driven by the arduino io ports,the forward voltage drop of the led should below 4v**<br>
+**since the leds are driven by the arduino io ports,the forward voltage drop of the led should below 4v** <br>
 <br>
-**receiver** <br>
+**receiver**  <br>
 arduino promicro x1 <br>
 2.4Ghz DTU x1 <br>
 *since it's powered by usb ports,there's no need to use battery* <br>
 <br>
+
 Important explainations of the files
 ----
 the circuit diagrams are shown as .pdf files in the\files folder <br>
 diagrams are drew using LCEDA <br>
 the .json files are LCEDA source codes which allow import and reedit <br>
 <br>
+
 Something more
 ----
 this product is built for ~~fun~~ testing purpose <br>
 so there may be some small (or enormous) problems <br>
-**the 3d print .stl files are created via Sketchup**
-**due to the special solid sealing of Sketchup**
-**there might be small problems when using different slicing softwares (it works fine with cura) **
-**double check your slicing software bfrore print**
+**the 3d print .stl files are created via Sketchup** <br>
+**due to the special solid sealing of Sketchup**  <br>
+**there might be small problems when using different slicing softwares (it works fine with cura) **  <br>
+**double check your slicing software bfrore print** <br>
 
