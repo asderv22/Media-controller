@@ -59,7 +59,7 @@ Since the receiver is based on arduino promicro<br>
 it can implement **wireless** mouse and keyboard emulation<br>
 ~~only has three keys~~
 <br>
-1
+
 Materials used
 ----
 **transmitter** <br>
