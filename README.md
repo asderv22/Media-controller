@@ -59,7 +59,7 @@ Since the receiver is based on arduino promicro<br>
 it can implement **wireless** mouse and keyboard emulation<br>
 ~~only has three keys~~
 <br>
-
+1
 Materials used
 ----
 **transmitter** <br>
@@ -90,5 +90,5 @@ so there may be some small (or enormous) problems <br>
 **the 3d print .stl files are created via Sketchup** <br>
 **due to the special solid sealing of Sketchup**  <br>
 **there might be small problems while using different slicing softwares (it works fine with cura)**  <br>
-**double check your slicing software bfrore print** <br>
+**double check your slicing software before print** <br>
 
